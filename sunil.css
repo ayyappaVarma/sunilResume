@@ -1,0 +1,30 @@
+.l8black{
+	background: #2d2e2e;
+}
+.darkblack{
+    background: #2b2c2c;
+}
+.ht650{
+	height: 650px;
+
+}
+.relatv{
+	position: relative;;
+}
+.caption {
+    position: absolute;
+    top: 40%;
+    left: 35%;
+}
+.top40{
+	top: 40%;
+}
+.wordscol{
+	color: #a4a5a6;
+}
+.headcol{
+	color: #e0a80d;
+}
+.minht{
+	min-height:250px;
+}
